@@ -41,7 +41,12 @@ public class indexController {
 		
 	}
 	
-	
+	@RequestMapping("/BJCommunity")
+	public String BJCommunity(Model model) {
+		
+		return "BJCommunity";
+		
+	}
 
 			
 		

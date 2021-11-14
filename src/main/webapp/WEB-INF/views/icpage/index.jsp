@@ -30,6 +30,11 @@
     <link rel="stylesheet" href="${pageContext.request.contextPath }/css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="${pageContext.request.contextPath }/css/style.css" type="text/css">
     <link rel="stylesheet" href="${pageContext.request.contextPath }/css/index.css" type="text/css">
+	<link href="${pageContext.request.contextPath }/CSS/admin.css" type="text/css" rel="stylesheet">
+    <!-- Page level plugin CSS-->
+    <link href="${pageContext.request.contextPath }/admin/vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="${pageContext.request.contextPath }/admin/css/sb-admin.css" rel="stylesheet">
 </head>
 <body>
     <!-- Page Preloder -->
