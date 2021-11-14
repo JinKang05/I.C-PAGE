@@ -29,8 +29,8 @@
     <link rel="stylesheet" href="${pageContext.request.contextPath }/css/owl.carousel.min.css" type="text/css">
     <link rel="stylesheet" href="${pageContext.request.contextPath }/css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="${pageContext.request.contextPath }/css/style.css" type="text/css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath }/css/index.css" type="text/css">
 </head>
-
 <body>
     <!-- Page Preloder -->
     <div id="preloder">

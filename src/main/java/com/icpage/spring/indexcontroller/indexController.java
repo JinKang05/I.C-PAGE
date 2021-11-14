@@ -37,7 +37,7 @@ public class indexController {
 	@RequestMapping("/index")
 	public String index(Model model) {
 		
-		return "icpage/index";
+		return "index";
 		
 	}
 	
