@@ -50,7 +50,7 @@
                         <div class="row d-flex justify-content-center">
 			                <div class="col-lg-8">
 			                    <div class="blog__details__title">
-			                        <h2>TOP OF WEEK</h2>
+			                        <h2 style="color:black;">TOP OF WEEK</h2>
 			                    </div>
 			                </div>
                 		</div>
@@ -62,7 +62,7 @@
                                         <p style="color:#529DFE"><b>작가 이름(작가닉네임)</b></p>
                                     </div>
                                     <div class="product__item__pic set-bg" data-setbg="img/trending/trend-4.jpg">
-                                    	<div class="img_poem"><img src="https://image.shutterstock.com/image-photo/blue-sky-sunshine-background-big-600w-269544314.jpg" style="border:1px solid white;">테스트 이미지</div>
+                                    	<div class="img_poem"><img src="https://image.shutterstock.com/image-photo/blue-sky-sunshine-background-big-600w-269544314.jpg" style="border:1px solid white; width:290px; height:300px">테스트 이미지</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
                                     </div>
@@ -75,7 +75,7 @@
                                         <p style="color:#529DFE"><b>작가 이름(작가닉네임)</b></p>
                                     </div>
                                     <div class="product__item__pic set-bg" data-setbg="img/trending/trend-5.jpg">
-                                    	<div class="img_poem"><img src="https://image.shutterstock.com/image-vector/moon-vector-dotwork-600w-1026733585.jpg" style="border:1px solid white;">테스트 이미지</div>
+                                    	<div class="img_poem"><img src="https://image.shutterstock.com/image-vector/moon-vector-dotwork-600w-1026733585.jpg" style="border:1px solid white; width:290px; height:300px">테스트 이미지</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
                                     </div>
@@ -88,7 +88,7 @@
                                         <p style="color:#529DFE"><b>작가 이름(작가닉네임)</b></p>
                                     </div>
                                     <div class="product__item__pic set-bg" data-setbg="img/trending/trend-6.jpg">
-                                    	<div class="img_poem"><img src="https://image.shutterstock.com/image-photo/early-morning-scenery-field-sun-600w-1800273991.jpg" style="border:1px solid white;">테스트 이미지</div>
+                                    	<div class="img_poem"><img src="https://image.shutterstock.com/image-photo/early-morning-scenery-field-sun-600w-1800273991.jpg" style="border:1px solid white; width:290px; height:300px">테스트 이미지</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
                                     </div>
@@ -115,10 +115,14 @@
                             <div class="col-lg-3 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/popular/popular-1.jpg">
+                                    	<div class=""><img src="https://image.shutterstock.com/image-photo/early-morning-scenery-field-sun-600w-1800273991.jpg" style="border:1px solid white; width:290px; height:300px"></div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
                                     </div>
                                     <div class="product__item__text">
+                                    	<ul>
+                                            <li>아침</li>
+                                        </ul>
                                         <h5><a href="#">시 제목</a></h5>
                                         <p style="color:#529DFE">작가 이름(작가닉네임)</p>
                                     </div>
@@ -127,11 +131,15 @@
                             <div class="col-lg-3 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/popular/popular-2.jpg">
+                                    	<div class=""><img src="https://image.shutterstock.com/image-vector/moon-vector-dotwork-600w-1026733585.jpg" style="border:1px solid white; width:290px; height:300px"></div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
                                     </div>
                                     <div class="product__item__text">
-                                        <h5><a href="#">Kizumonogatari III: Reiket su-hen</a></h5>
+                                    	<ul>
+                                            <li>새벽</li>
+                                        </ul>
+                                        <h5><a href="#">여기는 시 제목</a></h5>
                                         <p style="color:#529DFE">작가 이름(작가닉네임)</p>
                                     </div>
                                 </div>
@@ -139,10 +147,14 @@
                             <div class="col-lg-3 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/popular/popular-3.jpg">
+                                    	<div class=""><img src="https://image.shutterstock.com/image-photo/early-morning-scenery-field-sun-600w-1800273991.jpg" style="border:1px solid white; width:290px; height:300px"></div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
                                     </div>
                                     <div class="product__item__text">
+                                    	<ul>
+                                            <li>아침</li>
+                                        </ul>
                                         <h5><a href="#">금요일 같은 목요일</a></h5>
                                         <p style="color:#529DFE">하상욱</p>
                                     </div>
@@ -151,10 +163,14 @@
                             <div class="col-lg-3 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/popular/popular-4.jpg">
+                                    	<div class=""><img src="https://image.shutterstock.com/image-photo/blue-sky-sunshine-background-big-600w-269544314.jpg" style="border:1px solid white; width:290px; height:300px"></div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
                                     </div>
                                     <div class="product__item__text">
+                                    	<ul>
+                                            <li>낮</li>
+                                        </ul>
                                         <h5><a href="#">불금</a></h5>
                                         <p style="color:#529DFE">하상욱</p>
                                     </div>
@@ -167,6 +183,9 @@
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
                                     </div>
                                     <div class="product__item__text">
+                                    	<ul>
+                                            <li>낮</li>
+                                        </ul>
                                         <h5><a href="#">Sen to Chihiro no Kamikakushi</a></h5>
                                         <p style="color:#529DFE">작가 이름(작가닉네임)</p>
                                     </div>
